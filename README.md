@@ -4,7 +4,7 @@
 -   dark mode
 -   docs
 -   icons ✔️
--   translations
+-   translations ✔️
 
 ### Components:
 
@@ -14,7 +14,7 @@
 -   tooltip ✔️
 -   alert ✔️
 -   sidebar
--   modal
+-   modal ✔️
 -   command menu
 -   table(pagination, empty state)
 -   progress steps
@@ -24,7 +24,7 @@
 -   breadcrumb ✔️
 -   notifications
 -   section
--   loading spinner
+-   loading spinner ✔️
 -   slide out menu
 -   progress indicator
 -   pdf viewer
@@ -32,13 +32,12 @@
 
 ### Form components:
 
--   form
--   dropdown
+-   dropdown ✔️
 -   combobox
--   text input
--   toggle
--   checkbox
--   date picker
+-   text input ✔️
+-   toggle ✔️
+-   checkbox ✔️
+-   date picker ✔️
 -   file upload
 
 ### Dashboard components:

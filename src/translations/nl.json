@@ -1,0 +1,16 @@
+{
+	"English": "Engels",
+	"Dutch": "Nederlands",
+
+	"Monday": "Maandag",
+	"Tuesday": "Dinsdag",
+	"Wednesday": "Woensdag",
+	"Thursday": "Donderdag",
+	"Friday": "Vrijdag",
+	"Saterday": "Zaterdag",
+	"Sunday": "Zondag",
+
+	"Remove": "Verwijder",
+	"Cancel": "Annuleren",
+	"AreYouSureRemove": "Weet je zeker dat je deze {item} wilt verwijderen? Deze actie kan niet ongedaan gemaakt worden."
+}

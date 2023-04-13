@@ -1,0 +1,16 @@
+{
+	"English": "English",
+	"Dutch": "Dutch",
+
+	"Monday": "Monday",
+	"Tuesday": "Tuesday",
+	"Wednesday": "Wednesday",
+	"Thursday": "Thursday",
+	"Friday": "Friday",
+	"Saterday": "Saterday",
+	"Sunday": "Sunday",
+
+	"Remove": "Remove",
+	"Cancel": "Cancel",
+	"AreYouSureRemove": "Are you sure you want to delete this {item}? This action cannot be undone."
+}
