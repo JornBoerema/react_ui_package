@@ -1,4 +1,4 @@
-#Bijvoorbeeld Zo tailwind package:
+# Bijvoorbeeld Zo tailwind package:
 
 -   custom theme
 -   dark mode
@@ -6,7 +6,7 @@
 -   icons ✔️
 -   translations
 
-###Components:
+### Components:
 
 -   button ✔️
 -   button group
@@ -30,7 +30,7 @@
 -   pdf viewer
 -   video viewer
 
-##Form components:
+### Form components:
 
 -   form
 -   dropdown
@@ -41,13 +41,13 @@
 -   date picker
 -   file upload
 
-###Dashboard components:
+### Dashboard components:
 
 -   charts
 -   cards
 -   metrics
 
-###Pages:
+### Pages:
 
 -   Login
 -   Forgot password
