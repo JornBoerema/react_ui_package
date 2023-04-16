@@ -22,7 +22,7 @@ export const Checkbox: React.FC<Props> = (props) => {
 				}`}
 			/>
 			{props.value && (
-				<span className="absolute top-[2px] left-0 w-full h-full flex justify-center items-center text-primary-600 pointer-events-none">
+				<span className="absolute top-[1px] left-0 w-full h-full flex justify-center items-center text-primary-600 pointer-events-none">
 					<Check width={12} height={12} title={undefined} titleId={undefined} />
 				</span>
 			)}

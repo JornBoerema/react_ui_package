@@ -71,7 +71,7 @@ export const Button: React.FC<Props> = (props) => {
 				setSizeClass("px-3.5 py-2 gap-2 text-text-sm font-semibold");
 				break;
 		}
-	}, []);
+	}, [props.variant, props.size]);
 
 	return (
 		<button

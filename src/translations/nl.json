@@ -12,5 +12,11 @@
 
 	"Remove": "Verwijder",
 	"Cancel": "Annuleren",
-	"AreYouSureRemove": "Weet je zeker dat je deze {item} wilt verwijderen? Deze actie kan niet ongedaan gemaakt worden."
+	"AreYouSureRemove": "Weet je zeker dat je deze {item} wilt verwijderen? Deze actie kan niet ongedaan gemaakt worden.",
+
+	"Previous": "Vorige",
+	"Next": "Volgende",
+	"Page": "Pagina",
+	"Of": "van de",
+	"Edit": "Bewerken"
 }

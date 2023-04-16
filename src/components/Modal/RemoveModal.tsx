@@ -10,6 +10,7 @@ interface Props {
 	visible: boolean;
 	setVisible: (value: boolean) => void;
 	ItemName: string;
+	removeSelected: () => void;
 }
 
 export const RemoveModal: React.FC<Props> = (props) => {

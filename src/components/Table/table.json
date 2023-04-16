@@ -1,0 +1,78 @@
+{
+	"getEndpoint": "items.json",
+	"pagination": true,
+	"checkbox": true,
+	"edit": true,
+	"remove": true,
+	"masterdetail": true,
+	"columns": [
+		{
+			"title": "Name",
+			"field": "name",
+			"sort": true
+		},
+		{
+			"title": "Email",
+			"field": "email",
+			"sort": false
+		},
+		{
+			"title": "Phone",
+			"field": "phone",
+			"sort": true,
+			"width": 300
+		},
+		{
+			"title": "Country",
+			"field": "country",
+			"sort": true
+		}
+	],
+	"addFormTitle": "Add row",
+	"addForm": [
+		{
+			"title": "Name",
+			"field": "name",
+			"type": "text"
+		},
+		{
+			"title": "Email",
+			"field": "email",
+			"type": "text"
+		},
+		{
+			"title": "Phone",
+			"field": "phone",
+			"type": "text"
+		},
+		{
+			"title": "Country",
+			"field": "country",
+			"type": "dropdown",
+			"dropdownEndpoint": "getCountriesDropdown"
+		}
+	],
+	"editForm": [
+		{
+			"title": "Name",
+			"field": "name",
+			"type": "text"
+		},
+		{
+			"title": "Email",
+			"field": "email",
+			"type": "text"
+		},
+		{
+			"title": "Phone",
+			"field": "phone",
+			"type": "text"
+		},
+		{
+			"title": "Country",
+			"field": "country",
+			"type": "dropdown",
+			"endpoint": "getCountriesDropdown"
+		}
+	]
+}

@@ -12,5 +12,11 @@
 
 	"Remove": "Remove",
 	"Cancel": "Cancel",
-	"AreYouSureRemove": "Are you sure you want to delete this {item}? This action cannot be undone."
+	"AreYouSureRemove": "Are you sure you want to delete this {item}? This action cannot be undone.",
+
+	"Previous": "Previous",
+	"Next": "Next",
+	"Page": "Page",
+	"Of": "of",
+	"Edit": "Edit"
 }

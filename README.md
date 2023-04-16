@@ -1,4 +1,4 @@
-# Bijvoorbeeld Zo tailwind package:
+# Bijvoorbeeld Zo React & tailwind package:
 
 -   custom theme
 -   dark mode

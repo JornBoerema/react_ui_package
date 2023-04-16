@@ -19,7 +19,7 @@ export const Modal: React.FC<Props> = (props) => {
 				props.visible ? "bg-opacity-70 backdrop-blur-sm" : "opacity-0 pointer-events-none"
 			}`}
 		>
-			<div className="bg-white rounded-lg relative flex flex-col px-6 py-6 gap-8" style={{ width: props.width }}>
+			<div className={`bg-white rounded-lg relative flex flex-col px-6 py-6 gap-8 ${!props.width && "w-[500px]"}`} style={{ width: props.width }}>
 				<Button
 					variant={ButtonVariant.tertiaryGray}
 					size={ButtonSize.square}
