@@ -1,5 +1,3 @@
-import { useTranslation } from "react-i18next";
-
 export const getMonthName = (date: Date, locale: string) => {
 	return date.toLocaleDateString(locale, { month: "long" });
 };
@@ -27,23 +25,21 @@ export const getFirstWeekdayOfMonth = (date: string) => {
 };
 
 export const GetShortDayNameByIndex = (index: number) => {
-	const { t } = useTranslation();
-
 	switch (index) {
 		case 1:
-			return t("Monday").slice(0, 2);
+			return "Monday".slice(0, 2);
 		case 2:
-			return t("Tuesday").slice(0, 2);
+			return "Tuesday".slice(0, 2);
 		case 3:
-			return t("Wednesday").slice(0, 2);
+			return "Wednesday".slice(0, 2);
 		case 4:
-			return t("Thursday").slice(0, 2);
+			return "Thursday".slice(0, 2);
 		case 5:
-			return t("Friday").slice(0, 2);
+			return "Friday".slice(0, 2);
 		case 6:
-			return t("Saterday").slice(0, 2);
+			return "Saterday".slice(0, 2);
 		case 7:
-			return t("Sunday").slice(0, 2);
+			return "Sunday".slice(0, 2);
 	}
 };
 

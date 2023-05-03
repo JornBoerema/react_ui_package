@@ -29,6 +29,7 @@
 -   progress indicator
 -   pdf viewer
 -   video viewer
+-   kanban
 
 ### Form components:
 

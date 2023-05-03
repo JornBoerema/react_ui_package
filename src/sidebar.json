@@ -1,0 +1,52 @@
+{
+	"expandable": true,
+	"profile": true,
+	"search": false,
+	"modules": ["Module 1", "Module 2"],
+	"items": [
+		{
+			"title": "Dashboard",
+			"iconName": "grid01",
+			"navLink": "/dashboard",
+			"module": "Module 1"
+		},
+		{
+			"title": "Inbox",
+			"iconName": "mail01",
+			"navLink": "/inbox",
+			"module": "Module 1"
+		},
+		{
+			"title": "Dashboard",
+			"iconName": "grid01",
+			"navLink": "/dashboard",
+			"module": "Module 2"
+		},
+		{
+			"title": "Inbox",
+			"iconName": "mail01",
+			"navLink": "/inbox",
+			"module": "Module 2"
+		},
+		{
+			"title": "Inbox",
+			"iconName": "mail01",
+			"navLink": "/inbox",
+			"module": "Module 2"
+		}
+	],
+	"footerItems": [
+		{
+			"title": "Support",
+			"iconName": "lifeBuoy01",
+			"navLink": "/support",
+			"module": "all"
+		},
+		{
+			"title": "Settings",
+			"iconName": "settings01",
+			"navLink": "/settings",
+			"module": "all"
+		}
+	]
+}
